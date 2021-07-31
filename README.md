@@ -15,6 +15,7 @@ Luego ejecutamos el scrpit
 Y por ultimo verificamos en la base de datos
 ![image](https://user-images.githubusercontent.com/58036212/127723073-c081cf87-fc6d-4d66-bc35-4c7690947745.png)
 Se tuvo que guardar dos json porque el numero de titulos era mayor que el numero de contenidos 
+
 4.- Se ejecuta el script indicando el tipo de pagina que se hara la busqueda
 ![image](https://user-images.githubusercontent.com/58036212/127722838-70ef10c1-4202-4d8e-9397-ad463acb374e.png)
 ![image](https://user-images.githubusercontent.com/58036212/127722851-2907bfbe-b8d7-47d4-9891-7546a270f6a2.png)
@@ -23,3 +24,7 @@ Luego se comprueba en el mongoDB que se guardara lo recolectado :
 5.- Utilizamos el comando para tik tok
 ![image](https://user-images.githubusercontent.com/58036212/127723655-10973d59-c51d-44ed-908f-eb67b4b93e80.png)
 ![image](https://user-images.githubusercontent.com/58036212/127723668-0457835e-5501-4fee-a7a3-547f83112db1.png)
+6.- Escribimos el script para conectar el couchdb a mongoDB 
+![image](https://user-images.githubusercontent.com/58036212/127724008-2d08de7a-83a9-4e03-ab9f-6606f395a780.png)
+Y revisamos en el mongoDB
+![image](https://user-images.githubusercontent.com/58036212/127724053-28637e28-09c1-4a9a-8346-a3837cd4294b.png)
