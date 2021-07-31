@@ -23,4 +23,3 @@ Luego se comprueba en el mongoDB que se guardara lo recolectado :
 5.- Utilizamos el comando para tik tok
 ![image](https://user-images.githubusercontent.com/58036212/127723655-10973d59-c51d-44ed-908f-eb67b4b93e80.png)
 ![image](https://user-images.githubusercontent.com/58036212/127723668-0457835e-5501-4fee-a7a3-547f83112db1.png)
-
