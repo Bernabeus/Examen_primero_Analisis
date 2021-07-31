@@ -24,7 +24,16 @@ Luego se comprueba en el mongoDB que se guardara lo recolectado :
 5.- Utilizamos el comando para tik tok
 ![image](https://user-images.githubusercontent.com/58036212/127723655-10973d59-c51d-44ed-908f-eb67b4b93e80.png)
 ![image](https://user-images.githubusercontent.com/58036212/127723668-0457835e-5501-4fee-a7a3-547f83112db1.png)
-6.- Escribimos el script para conectar el couchdb a mongoDB 
+Y el scrpit es el siguiente para pasarle al sqllite
+![image](https://user-images.githubusercontent.com/58036212/127724688-5cd1bf62-7356-4f97-ad5b-3dfdb82b95dc.png)
+6.- Se exportara los csv de sqllite 
+![image](https://user-images.githubusercontent.com/58036212/127724739-43fd3c42-500c-4dc4-8935-750f00403a90.png)
+Luego se verifica en la ruta 
+![image](https://user-images.githubusercontent.com/58036212/127724759-39f3cd3f-a906-4495-9523-4ce6415c542f.png)
+Y se importa en el mongo db luego de crear una coleccion
+![image](https://user-images.githubusercontent.com/58036212/127724815-b2e5545d-2162-4be4-921e-1e2dbb57ffe0.png)
+![image](https://user-images.githubusercontent.com/58036212/127724861-4f006887-88d9-473e-9f0e-a48b3c1d86b0.png)
+7.- Escribimos el script para conectar el couchdb a mongoDB 
 ![image](https://user-images.githubusercontent.com/58036212/127724008-2d08de7a-83a9-4e03-ab9f-6606f395a780.png)
 Y revisamos en el mongoDB
 ![image](https://user-images.githubusercontent.com/58036212/127724053-28637e28-09c1-4a9a-8346-a3837cd4294b.png)
