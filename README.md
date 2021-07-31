@@ -50,3 +50,7 @@ Y se importa en el mongo db luego de crear una coleccion
 ![image](https://user-images.githubusercontent.com/58036212/127724008-2d08de7a-83a9-4e03-ab9f-6606f395a780.png)
 Y revisamos en el mongoDB
 ![image](https://user-images.githubusercontent.com/58036212/127724053-28637e28-09c1-4a9a-8346-a3837cd4294b.png)
+
+8.- Abrimos el mongoDB Atlas y escogemos un modo de conexion con el cluster
+![image](https://user-images.githubusercontent.com/58036212/127725156-74fcc2f5-46bd-42c8-a4cd-672be7d1a3f9.png)
+
